@@ -7,8 +7,7 @@ const About = () => {
             <h2>About me</h2>
             <div className="container about__container">
             <article className='about_details'>
-                <p className='content'>Hi! I am a 21-year-old student pursuing my third year of the Bachelor of Commerce Honours degree at the THK Jain college, West Bengal. 
-                I am passionate about coding, and love to travel - especially around the world! And interested in learning new things, and meeting new people.</p>
+                <p className='content'>Hi! I am passionate about coding, research & analysis and love exploring new technologies. Beyond tech, I love to travel - especially around the world! And interested in learning new things, and meeting new people.</p>
 
               
             </article>
